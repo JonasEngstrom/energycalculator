@@ -2,3 +2,8 @@
 
 export(bmi)
 export(bmi_category)
+export(ibw)
+export(in2m)
+export(kg2lb)
+export(lb2kg)
+export(m2in)
