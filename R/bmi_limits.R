@@ -11,7 +11,7 @@
 #' bmi_limits(1.65)
 bmi_limits <- function(height) {
   tibble::tibble(
-    bmi_category_lower_limit = c(
+    bmi_category = c(
       'Underweight',
       'Normal weight',
       'Pre-obesity',

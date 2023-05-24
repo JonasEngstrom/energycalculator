@@ -2,7 +2,7 @@ test_that("bmi_limits returns correct weight values", {
   expect_equal(
     bmi_limits(1.65),
     tibble::tibble(
-      bmi_category_lower_limit = c(
+      bmi_category = c(
         'Underweight',
         'Normal weight',
         'Pre-obesity',
