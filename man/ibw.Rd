@@ -22,7 +22,7 @@ Calculate the ideal body weight based on height and sex, using one of the follow
 \details{
 \itemize{
 \item Broca, 1871
-\item Hamwi, 1964 (without consideration for frame size)
+\item Hawmi, 1964 (without consideration for frame size)
 \item Devine, 1974
 \item Robinson, 1983
 \item Miller, 1983
