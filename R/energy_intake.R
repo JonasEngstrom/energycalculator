@@ -10,5 +10,8 @@
 #'   \item{activity}{Ordered. Activity level sedentary corresponds to PAL 1.4, average to PAL 1.6, and active to PAL 1.8.}
 #'   \item{mj_per_day}{Double. Reference value for energy intake in megajoules per day.}
 #' }
+#'
+#' @md
+#'
 #' @source <https://pub.norden.org/nord2023-003>
 "energy_intake"
