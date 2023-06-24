@@ -3,7 +3,7 @@
 #' Calculate the ideal body weight based on height and sex, using one of the following formulas:
 #'
 #' * Broca, 1871
-#' * Hamwi, 1964 (without consideration for frame size)
+#' * Hawmi, 1964 (without consideration for frame size)
 #' * Devine, 1974
 #' * Robinson, 1983
 #' * Miller, 1983

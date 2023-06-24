@@ -1,8 +1,10 @@
 #' Swedish Food Agency’s Food Database
 #'
 #' The data in the dataset prepared below is derived from the Swedish language
-#' version of the Swedish Food Agency food database, version 2022-05-24,
-#' available under a Creative Commons Attribution 4.0 license.
+#' version of [the Swedish Food Agency food
+#' database](https://www.livsmedelsverket.se/livsmedelsdatabasen), version
+#' 2022-05-24, available under a [Creative Commons Attribution 4.0
+#' license](http://www.creativecommons.se/wp-content/uploads/2015/01/CreativeCommons-Erkännande-4.0.pdf).
 #'
 #' @format ## food_database A data frame with 2,333 rows and 61 columns:
 #' \describe{
@@ -68,6 +70,8 @@
 #'   \item{zink_mg}{The zink contents in milligrams.}
 #'   \item{waste_pct}{The proportion of the food comprised by waste products, expressed in percent.}
 #' }
+#'
+#' @md
 #'
 #' @source <https://www.livsmedelsverket.se/livsmedelsdatabasen>
 "food_database"
