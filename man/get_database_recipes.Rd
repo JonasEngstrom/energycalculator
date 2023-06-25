@@ -13,6 +13,6 @@ get_database_recipes(database_path)
 A tibble of nutrition facts.
 }
 \description{
-Imports nutrition facts for recipes in a database formatted ad modum
+Imports nutrition facts for recipes in a database formatted \emph{ad modum}
 \href{https://github.com/JonasEngstrom/food_database_scripts}{food_database_scripts}.
 }
