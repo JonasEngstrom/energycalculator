@@ -7,6 +7,6 @@ A package for calculating energy intake and expenditure for exercise and weight 
 Run the following commands to get started:
 
 ```R
-devtools::install_github('JonasEngstrom/energycalculator')
+pak::pkg_install('JonasEngstrom/energycalculator')
 library(energycalculator)
 ```
